@@ -2,19 +2,19 @@
 
 I don't learn by stacking up tutorials, I learn by building real things. Every project is an opportunity to improve and understand something deeply.
 
-These days my focus is backend: Java and Spring Boot, REST APIs and databases. Right now I'm building a RESTful inventory management API with Spring Boot, PostgreSQL, JWT authentication, Flyway, testing and CI/CD - deploying it to production on my own Ubuntu VPS with Docker and Nginx.
+My path from here: build a solid base in systems and backend development, then grow into cloud and DevOps.
 
-My path from here: get really good at backend and DevOps first, then grow into cloud. The part where code meets infrastructure is what I like the most.
+I'm always learning, and I enjoy working in teams where I can contribute and keep growing.
 
 ### Tech I work with
 
-- **Languages:** Java, SQL, Python
+- **Languages:** Java, Python, SQL
 - **Backend:** Spring Boot, JPA / Hibernate, REST APIs
 - **Databases:** PostgreSQL
-- **DevOps & Tools:** Docker, Nginx, Linux, Git, Maven
+- **Tools & systems:** Linux, Git, Maven
+- **Networking & support:** TCP/IP, VLANs, Cisco (switching and routing), Wireshark
 
 ### Now
 
-- Building and deploying backend projects on my own VPS
-- Learning good backend and testing practices
-- Improving my English
+- Docker, Nginx and deploying to my own VPS
+- Cloud fundamentals
